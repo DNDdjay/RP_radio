@@ -11,5 +11,8 @@ U NEED TO ADD RADIO AS A ITEM
 
 and make sure to put rp-radio in the server.cfg as well
 
+i am not updating the script anymore after mumble is outdatede 
+
+i am working on pma-voice now https://github.com/DNDdjay/rp-radio-pma-voice/tree/V1.1
 
 orginal mod: https://github.com/FrazzIe/rp-radio
